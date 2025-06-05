@@ -6,7 +6,7 @@
 
 📫 Como me encontrar? [Linkedin] www.linkedin.com/in/andreabomfim
 
-## 🔥 Meus Projetos - Confira meu portfólio [aqui]
+## 🔥 Meus Projetos - Confira meu portfólio [aqui:]
 
-🔒 https://github.com/AndreaNttdataGit/numero-secreto ✍️❓❓❓
+🔒 https://github.com/AndreaNttdataGit/numero-secreto ✍️❓
 
