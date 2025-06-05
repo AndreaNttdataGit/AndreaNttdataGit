@@ -2,7 +2,9 @@
 
 ### Bem-vindo ao meu perfil! Sou um entusiasta de tecnologia apaixonado por desenvolvimento. 🚀  
 
-## 💡 Sobre mim   - 💻 Engenheira de Qualidade  - 🎯 Apaixonado por inovação e aprendizado 📫 Como me encontrar? 
+## 💡 Sobre mim   - 💻 Engenheira de Qualidade  - 🎯 Apaixonado por inovação e aprendizado 
+
+📫 Como me encontrar? 
 
 [Linkedin] www.linkedin.com/in/andreabomfim 🐦‍🔥
 
