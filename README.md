@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 
 - 📫 Como me encontrar? [LinkedIn - www.linkedin.com/in/andreabomfim]
   
-## 🔥 Meus Projetos  🔭 Confira meu portfólio [aqui:]
+## 🔥 Meus Projetos  🔭 Confira meu portfólio [aqui]:
 
-✨ https://github.com/AndreaNttdataGit/numero-secreto ✨
+✨ _https://github.com/AndreaNttdataGit/numero-secreto_ ✨
