@@ -4,6 +4,6 @@
 # 💡 Sobre mim   - 💻 Engenheira de Qualidade  - 🎯 Apaixonado por inovação e aprendizado
 - 📫 Como me encontrar? [LinkedIn - www.linkedin.com/in/andreabomfim]
 ## 🔥 Meus Projetos   Confira meu portfólio [aqui:]
-🔒 https://github.com/AndreaNttdataGit/numero-secreto ✍️❓
+🔒 https://github.com/AndreaNttdataGit/numero-secreto - http://127.0.0.1:5500/numero-secreto/index.html ✍️❓
 
 
