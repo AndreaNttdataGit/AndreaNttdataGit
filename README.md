@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Olá! Eu sou [Andrea Bomfim] 👋
-
+## 👋 Olá! Eu sou [Andrea Bomfim] 
+ 
 !--
 ** Bem-vindo ao meu perfil! Sou um entusiasta de tecnologia apaixonado por desenvolvimento. 🚀  
 # 💡 Sobre mim   - 💻 Engenheira de Qualidade  - 🎯 Apaixonado por inovação e aprendizado
