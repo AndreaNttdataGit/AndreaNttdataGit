@@ -17,6 +17,8 @@
 
 ✨ _https://github.com/AndreaNttdataGit/numero-secreto_ ✨
 
+![Badge em Evolução](http://img.shields.io/static/v1?label=STATUS&message=EM%20EVOLUÇÃO&color=GREEN&style=for-the-badge)
+
 ## Ferramentas e Tecnologias
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original.svg" width="40" height="40" />
