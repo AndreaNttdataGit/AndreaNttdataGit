@@ -5,8 +5,9 @@
 ## 💡 Sobre mim 
 - 🔭 Atualmente estou trabalhando como 💻 Engenheira de Qualidade
 - 🌱 Atualmente estou aprendendo - 🎯 Apaixonado por inovação e aprendizado
-- 📫 Como entrar em contato comigo: [LinkedIn - www.linkedin.com/in/andreabomfim]
 
+## Contatos
+- 📫 Como entrar em contato comigo: [LinkedIn - www.linkedin.com/in/andreabomfim]
 <div>
 <a href = "mailto:andrea.bomfim@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/andreabomfim" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
