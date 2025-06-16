@@ -2,8 +2,7 @@
 
 ## 🔭 Bem-vindo ao meu perfil GitHub! - Sou um entusiasta de tecnologia apaixonado por desenvolvimento. 🚀  
 
-## 💡 Sobre mim  - 💻 Engenheira de Qualidade  - 🎯 Apaixonado por inovação e aprendizado
-
+## 💡 Sobre mim 
 - 🔭 Atualmente estou trabalhando como 💻 Engenheira de Qualidade - 🎯 Apaixonado por inovação e aprendizado
 
 📫 Como me encontrar? [LinkedIn - www.linkedin.com/in/andreabomfim]
