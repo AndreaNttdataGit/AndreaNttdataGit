@@ -4,7 +4,7 @@
 
 ## 💡 Sobre mim 
 - 🔭 Atualmente estou trabalhando como 💻 Engenheira de Qualidade
-- 🌱 Atualmente estou aprendendo - 🎯 Apaixonado por inovação e aprendizado
+- 🌱 Em constante aprendizado - 🎯 Apaixonado por inovação e aprendizado
 
 ## Contatos
 - 📫 Como entrar em contato comigo: [LinkedIn - www.linkedin.com/in/andreabomfim]
