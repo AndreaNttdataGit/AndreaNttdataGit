@@ -17,6 +17,8 @@
 
 ✨ _https://github.com/AndreaNttdataGit/numero-secreto_ ✨
 
+✨ https://github.com/alura-cursos/curso-cypress.git ✨
+
 ![Badge em Evolução](http://img.shields.io/static/v1?label=STATUS&message=EM%20EVOLUÇÃO&color=GREEN&style=for-the-badge)
 
 ## Ferramentas e Tecnologias
